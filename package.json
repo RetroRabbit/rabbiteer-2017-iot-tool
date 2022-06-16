@@ -15,7 +15,7 @@
   "author": "GitHub",
   "license": "MIT",
   "devDependencies": {
-    "electron": "9.4.0",
+    "electron": "15.5.5",
     "electron-packager": "^9.1.0",
     "electron-rebuild": "^1.6.0"
   },
