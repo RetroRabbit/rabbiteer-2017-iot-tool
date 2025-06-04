@@ -17,7 +17,7 @@
   "devDependencies": {
     "electron": "22.3.25",
     "electron-packager": "^16.0.0",
-    "electron-rebuild": "^1.6.0"
+    "electron-rebuild": "^3.2.9"
   },
   "dependencies": {
     "electron-prompt": "^0.4.0",
