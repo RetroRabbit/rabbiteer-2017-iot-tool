@@ -594,9 +594,9 @@ electron-rebuild@^3.2.9:
     tar "^6.0.5"
     yargs "^17.0.1"
 
-electron@35.7.5:
-  version "35.7.5"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-35.7.5.tgz#294a4aebb2ad2a884de730c410f2358d061e8d53"
+electron@39.8.5:
+  version "39.8.5"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-39.8.5.tgz#422d42318d993a77a960ea1a9b4bfb4822221388"
   dependencies:
     "@electron/get" "^2.0.0"
     "@types/node" "^22.7.7"
